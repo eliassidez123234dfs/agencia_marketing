@@ -1,0 +1,8 @@
+django==5.2.7
+django-environ==0.12.0 ## permite poner en secreto las contraseñas en variables de ambientes
+django-cors-headers==4.9.0 ## Permite la comunicacion del front-end con el back-end, esto decide quien puede acceder a la API 
+djangorestframework==3.16.1
+pillow==12.0.0 
+django-storages==1.14.6 ## poder guardar las imagenes en AWS o videos, cosas que pesen o se guardan en gran cantidad se guardan en un sdn 
+django-ckeditor==6.7.3 ## crear cosas de manera mas rica para que se vea mejor
+psycopg==3.2.11 ## esto es para poder trabajar con postgresql
