@@ -1,9 +1,5 @@
-
-## lo que no queremos subir al git
-## buscamos en el navegador gitignore y pusimos toptal
-
-# Created by https://www.toptal.com/developers/gitignore/api/react,python,django
-# Edit at https://www.toptal.com/developers/gitignore?templates=react,python,django
+# Created by https://www.toptal.com/developers/gitignore/api/react,django,python
+# Edit at https://www.toptal.com/developers/gitignore?templates=react,django,python
 
 ### Django ###
 *.log
@@ -282,4 +278,4 @@ psd
 thumb
 sketch
 
-# End of https://www.toptal.com/developers/gitignore/api/react,python,django
+# End of https://www.toptal.com/developers/gitignore/api/react,django,python
